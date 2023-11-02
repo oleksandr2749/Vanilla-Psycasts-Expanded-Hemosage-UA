@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- These are Mote ThingDefs. Remain the same, DO NOT translate them. -->
+
+  <VPEH_BloodmistMote.label>Mote</VPEH_BloodmistMote.label>
+  <VPEH_CorpseExplosion.label>Mote</VPEH_CorpseExplosion.label>
+  <VPEH_BloodRite.label>Mote</VPEH_BloodRite.label>
+
+
+</LanguageData>
